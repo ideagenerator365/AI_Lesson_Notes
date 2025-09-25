@@ -1,4 +1,4 @@
-# AI Lessons
+# AI Notes
 AI Lessons for everybody
 
 ## AI Time Line
@@ -6,20 +6,20 @@ AI Lessons for everybody
 ### 1950
 *   Turin Machine
 
-### Before 2000
+### 1970
 *   Math Interpolation
 *   Neural Networks
     *   CNN Convolutional Neural Networks
     *   RNN Recurrent Neural Networks
 
 ### 2004
-*   Google BIG Data mining
-*   Machine Learning
+*   BIG Data mining
+*   Machine Learning -- Google , Facebook, Neflix
 *   HPC Deep Learning
 
 ### 2010
-*   Amazon Cloud Computing
-*   Cognitive Services
+*   Grid Computing Virtualized  -- Amazon Cloud Computing
+*   Cognitive Services -- Trained AI Models -- GOal reach the Human Parity 
 
 ### 2014
 *   GAN
