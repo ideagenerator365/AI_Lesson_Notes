@@ -1,2 +1,51 @@
-# AI_lessons
+# AI Lessons
 AI Lessons for everybody
+
+## AI Time Line
+
+### 1950
+*   Turin Machine
+
+### Before 2000
+*   Math Interpolation
+*   Neural Networks
+    *   CNN Convolutional Neural Networks
+    *   RNN Recurrent Neural Networks
+
+### 2004
+*   Google BIG Data mining
+*   Machine Learning
+*   HPC Deep Learning
+
+### 2010
+*   Amazon Cloud Computing
+*   Cognitive Services
+
+### 2014
+*   GAN
+
+### 2015
+*   Difussion Models
+*   Object Recognition
+    *   Face recognition
+    *   Face Comparition
+
+### 2016
+*   Celebrity Recognition
+
+### 2017
+*   Speech Recognition
+*   LLM (Large Language Model) --> LLMMMs --> Transformers
+
+### 2018
+*   **(January)** Reading Comprehension
+*   **(March)** Traslation
+
+### 2019
+*   Lips Reading, Gaming . Discussing In Debates
+*   Generative AI
+
+---
+
+## REFERENCES
+*   [2024 GenAI for Hacking & Fun: Conferencia de Chema Alonso en DragonJar CON](https://www.youtube.com/watch?v=IBXOMGhyqng&t=2646s)
