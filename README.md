@@ -11,7 +11,9 @@ AI Lessons for everybody
 *   Neural Networks
     *   CNN Convolutional Neural Networks
     *   RNN Recurrent Neural Networks
-
+### 1970
+*   IBM Deep Blue -- Neural Network to play Chess
+  
 ### 2004
 *   BIG Data mining
 *   Machine Learning -- Google , Facebook, Neflix
@@ -22,7 +24,8 @@ AI Lessons for everybody
 *   Cognitive Services -- Trained AI Models -- GOal reach the Human Parity 
 
 ### 2014
-*   GAN (Generative Adversarial Network)
+*   GAN (Generative Adversarial Network) --  Ian Goodfellow
+*   Evolution Chess gaming with Google AlphaChess and  AlphaGo
 
 ### 2015
 *   Difussion Models
