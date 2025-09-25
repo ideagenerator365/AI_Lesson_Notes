@@ -49,5 +49,5 @@ AI Lessons for everybody
 
 ## REFERENCES
 *   [2024 GenAI for Hacking & Fun: Conferencia de Chema Alonso en DragonJar CON](https://www.youtube.com/watch?v=IBXOMGhyqng&t=2646s)
-*   [DeepLearning.AI] (https://www.deeplearning.ai/the-batch/ian-goodfellow-a-man-a-plan-a-gan/) interview with Ian Goodfellow (2020). Shares the backstory of how Goodfellow conceived the idea after a discussion at a bar and quickly coded the initial version, demonstrating the concept on the MNIST dataset.
-*   [Wikipedia entry for Generative Adversarial Network] (https://en.wikipedia.org/wiki/Generative_adversarial_network). Summarizes the invention, citing the 2014 Goodfellow paper and explaining the core principle of a zero-sum game between two neural networks.
+*   [DeepLearning.AI](https://www.deeplearning.ai/the-batch/ian-goodfellow-a-man-a-plan-a-gan/) interview with Ian Goodfellow (2020). Shares the backstory of how Goodfellow conceived the idea after a discussion at a bar and quickly coded the initial version, demonstrating the concept on the MNIST dataset.
+*   [Wikipedia entry for Generative Adversarial Network](https://en.wikipedia.org/wiki/Generative_adversarial_network). Summarizes the invention, citing the 2014 Goodfellow paper and explaining the core principle of a zero-sum game between two neural networks.
